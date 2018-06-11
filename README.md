@@ -1,14 +1,13 @@
 # awesome-laravel
 持之以恒，不断优化，增加新的，删除或者替换已经过时的
-1. [核心概念](#core)
-2. [插件推荐](#vender)
-3. [图书推荐](#book)
-4. [工具推荐](#tool)
-5. [教程推荐](#course)
-6. [开源项目](#open)
-7. [社区](#community)
-<span id ="core"></span>
-### 核心概念
+1. [核心概念](#核心概念)
+2. [插件推荐](#插件推荐)
+3. [图书推荐](#图书推荐)
+4. [工具推荐](#工具推荐)
+5. [教程推荐](#教程推荐)
+6. [开源项目](#开源项目)
+7. [社区](#社区)
+### <span id ="core">核心概念</span>
 主要收集目前对 Laravel 核心源代码解析较为透彻的文章。
 - [laravel 从小工到专家的学习之路](https://laravel-china.org/coder_to_artisan)：一个专栏，就像它的名字一样
 - [网管叨bi叨](https://laravel-china.org/kevintech)：分享Laravel最佳实践和内核代码分析相关的文章
