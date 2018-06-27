@@ -42,6 +42,7 @@ Summer 大大](https://laravel-china.org/users/1)，laravel 入门三部曲终�
 开源项目，好比「武功秘籍」，拿到一本牛逼的武功秘籍，何愁功力不精进~
 - [october](http://octobercms.com/) ：基于 laravel 构建的cms，github 上排名很高
 - [flarum](https://github.com/flarum/flarum) ：基于 laravel 构建的论坛，官网未知名打不开，所以是 github 上的地址，现在貌似还是测试版
+- [Bootstrap 前端资源大全集](https://laravel-china.org/articles/13696/a-complete-set-of-bootstrap-front-end-resources-continuous-update) ：很多免费项目或者模版
 ### <span id ="community">社区</span>
 社区是「物以类聚，人与群分」的场所，时常逛逛社区，了解大家都在讨论什么，分享什么技术，让我们不至于脱节了。
 - [LaravelChina](https://laravel-china.org/) ：非常有好的社区，关键是活跃，本人极力推荐
