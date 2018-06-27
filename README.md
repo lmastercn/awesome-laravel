@@ -38,6 +38,7 @@ Summer 大大](https://laravel-china.org/users/1)，laravel 入门三部曲第�
 - [实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5) ：LC 社区 [	
 Summer 大大](https://laravel-china.org/users/1)，laravel 入门三部曲终曲，力推这本，能学到很多知识
 - [Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5)：johnlui（吕文翰，[博客](https://lvwenhan.com/)），非常棒的教程，真的很详细
+- [JWT 完整使用详解](https://laravel-china.org/articles/10885/full-use-of-jwt) ： tymon\jwt-auth ，GitHub wiki 相当古老了，官方文档也不完整
 ### <span id ="open">开源项目</span>
 开源项目，好比「武功秘籍」，拿到一本牛逼的武功秘籍，何愁功力不精进~
 - [october](http://octobercms.com/) ：基于 laravel 构建的cms，github 上排名很高
